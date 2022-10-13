@@ -1,2 +1,2 @@
 # meuprojeto
-https://lecristina.github.io/PROJETO-1/
+https://lecristina.github.io/meuprojeto/
